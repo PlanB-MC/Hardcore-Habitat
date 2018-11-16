@@ -1,0 +1,14 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "extreme_hills": "2018-11-16 23:26:36 +0000"
+    },
+    "done": false
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2018-11-16 23:27:11 +0000"
+    },
+    "done": true
+  }
+}
