@@ -8,6 +8,7 @@
     val ironpick = <minecraft:iron_pickaxe>;
     val string1 = <minecraft:string>;
     val ironingot = <minecraft:iron_ingot>;
+    val matt
 
     # Immersive Items
     val blast = <immersiveengineering:stone_decoration:1>;
