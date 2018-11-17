@@ -3,7 +3,8 @@
 # ========= #
 
     # Vanilla Items
-    val wood = <minecraft:planks:*>;
+    val anyLog = <ore:logWood>;
+    val anyPlank = <minecraft:planks:*>;
     val furnace = <minecraft:furnace>;
     val ironpick = <minecraft:iron_pickaxe>;
     val string1 = <minecraft:string>;
@@ -18,6 +19,11 @@
     # Primal Items
     val drythatch = <primal:thatching_dry>;
     val Pchest = <primalchests:primal_chest>;
+    val workstump = <primal_tech:work_stump>;
+    val fsaw = <primal:flint_saw>;
+
+    # Horsepower Items
+    val anyChoppingBlock = <horsepower:chopping_block:*>;
 
 
 # ============== #
@@ -46,9 +52,9 @@ recipes.addShaped("Furnace", furnace,
 
 recipes.addShaped("Primal Chest", Pchest,
     [
-        [wood,wood,wood],
-        [wood,drythatch,wood],
-        [wood,wood,wood]
+        [anyPlank,anyPlank,anyPlank],
+        [anyPlank,drythatch,anyPlank],
+        [anyPlank,anyPlank,anyPlank]
     ]
 );
 
@@ -65,5 +71,13 @@ recipes.addShaped("Hammer", hammer,
         [null,ironingot,string1],
         [null,treatedsticks,ironingot],
         [treatedsticks,null,null]
+    ]
+);
+
+recipes.addShaped("Work Stump", workstump,
+    [
+        [null,anyChoppingBlock,null],
+        [null,anyLog,null],
+        [null,null,null]
     ]
 );
