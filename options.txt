@@ -85,6 +85,7 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
+key_key.betterquesting.quests:41
 key_key.xu2.searchforitems:20
 key_openblocks.keybind.vario_switch:47
 key_openblocks.keybind.vario_vol_up:0
