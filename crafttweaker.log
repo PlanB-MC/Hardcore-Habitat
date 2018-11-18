@@ -10,7 +10,7 @@
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: reciepes.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: stages.zs}
 [INITIALIZATION][CLIENT][INFO] Adding to item stage one. Stone - minecraft:stone:0
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 286ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 348ms
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Furnace with name Furnace
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Primal Chest with name Primal Chest
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Pickaxe with name Iron Pick
