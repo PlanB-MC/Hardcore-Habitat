@@ -38,6 +38,14 @@ recipes.remove(<primalchests:primal_chest>);
 recipes.remove(<minecraft:iron_pickaxe>);
 recipes.remove(<immersiveengineering:tool>);
 
+    # Industial Forging
+    # No longer needed. Added them to an unobtainable stage
+    /* recipes.remove(<industrialforegoing:tree_fluid_extractor>);
+    recipes.remove(<industrialforegoing:latex_processing_unit>);
+    recipes.remove(<industrialforegoing:plastic>);
+    recipes.remove(<industrialforegoing:dryrubber>);
+    recipes.remove(<industrialforegoing:tinydryrubber>); */
+
 # ================ #
 # Recipe Additions #
 # ================ #

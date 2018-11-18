@@ -1,5 +1,5 @@
 #customoregen 1.12 Config Options
-#Sat Nov 17 23:10:37 GMT 2018
+#Sun Nov 18 00:12:05 GMT 2018
 COGActive=false
 deferredPopulationRange=16.0
 drawWireframes=true

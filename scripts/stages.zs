@@ -1,5 +1,10 @@
-mods.ItemStages.addItemStage("one", <minecraft:stone>);
-
+# Remove Industrial Forging Machines
+mods.ItemStages.addItemStage("unobtainable", <industrialforegoing:tree_fluid_extractor>);
+mods.ItemStages.addItemStage("unobtainable", <industrialforegoing:latex_processing_unit>);
+mods.ItemStages.addItemStage("unobtainable", <industrialforegoing:plastic>);
+mods.ItemStages.addItemStage("unobtainable", <industrialforegoing:plastic>);
+mods.ItemStages.addItemStage("unobtainable", <industrialforegoing:dryrubber>);
+mods.ItemStages.addItemStage("unobtainable", <industrialforegoing:tinydryrubber>);
 
 /* Example Script
 
