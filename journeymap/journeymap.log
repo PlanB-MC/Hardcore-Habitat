@@ -183,3 +183,6 @@ java.lang.NullPointerException: null
 [23:10:56] [main/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\Matt\Documents\Curse\Minecraft\Instances\Hardcore habitat\journeymap\data\sp\PlanB Official Test Flat~World\waypoints
 [23:10:56] [main/INFO] [JourneymapClient] Mapping started in C:\Users\Matt\Documents\Curse\Minecraft\Instances\Hardcore habitat\journeymap\data\sp\PlanB Official Test Flat~World\DIM0. Memory: 4096MB total, 1557MB free 
 [23:10:56] [main/INFO] [ChatLog] JourneyMap: Press [J]
+[00:00:32] [main/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[00:00:32] [main/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
+[00:01:00] [main/INFO] [JourneymapClient] Mapping halted in C:\Users\Matt\Documents\Curse\Minecraft\Instances\Hardcore habitat\journeymap\data\sp\PlanB Official Test Flat~World\DIM0
