@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2018-11-19T01:49:41.112957Z",
+  "lastPlayed": "2018-11-19T03:21:44.0578344Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -215,16 +215,13 @@
     },
     {
       "folderName": "PlanB Official Test Flat-World",
-      "fingerprint": 2002018023,
-      "fileDateHash": 644160942,
+      "fingerprint": 3112074658,
+      "fileDateHash": 995235428,
       "sectionID": 17,
       "individualFingerprints": [
-        61344035,
-        61344035,
         224251200,
         224251200,
-        243247137,
-        390260810,
+        394714573,
         421305404,
         489458212,
         489458212,
@@ -235,57 +232,61 @@
         541973602,
         682895157,
         682895157,
-        721403731,
         833186334,
-        878322213,
         1065350002,
-        1102041673,
-        1130404153,
+        1070061163,
+        1125195429,
+        1196698976,
         1254400901,
-        1335350332,
         1449778967,
         1523120001,
         1530794962,
         1635978834,
-        1695667474,
-        1736427474,
         1803953797,
         1803953797,
         1828610161,
+        1866175168,
+        1902850694,
         1906734092,
-        2408754767,
+        2091628381,
         2483567474,
+        2489317088,
         2535630947,
         2535630947,
         2535630947,
         2535630947,
+        2549934358,
+        2549934358,
+        2606064625,
         2643933950,
         2722071958,
-        2982310265,
         3028428630,
-        3068698820,
-        3084597716,
+        3044946036,
         3184781582,
         3278097606,
+        3327110911,
         3383409723,
+        3572068151,
         3582932549,
         3602844998,
         3827926509,
+        3839659604,
+        3847753504,
         3955112775,
-        3995271717,
         4024362282,
         4024362282,
         4024362282,
         4024362282,
         4024362282,
+        4074574335,
         4233573051,
-        4256046914,
+        4263995935,
         4272588933
       ],
       "status": 1,
-      "timestamp": "2018-11-19T00:41:26.5746253Z",
-      "lastWriteTimeUtc": "2018-11-18T17:16:09.5272715Z",
-      "queryTimestamp": "2018-11-19T00:41:27.6547315Z",
+      "timestamp": "2018-11-19T03:04:51.0805751Z",
+      "lastWriteTimeUtc": "2018-11-19T00:58:05.9230733Z",
+      "queryTimestamp": "2018-11-19T03:04:51.4003736Z",
       "fileCount": 18,
       "fileSize": 0
     },
@@ -500,6 +501,21 @@
       "fileSize": 1526803
     },
     {
+      "folderName": "SmoothFont-mc1.12.2-1.16.1.jar",
+      "fingerprint": 289846636,
+      "fileDateHash": 2071296504,
+      "sectionID": 6,
+      "individualFingerprints": [
+        289846636
+      ],
+      "status": 1,
+      "timestamp": "2018-11-19T03:04:51.0186124Z",
+      "lastWriteTimeUtc": "2018-11-19T01:01:09.5847752Z",
+      "queryTimestamp": "2018-11-19T03:04:51.4033718Z",
+      "fileCount": 1,
+      "fileSize": 234312
+    },
+    {
       "folderName": "CraftStudio-1.0.0.93-mc1.12-alpha.jar",
       "fingerprint": 2785004908,
       "fileDateHash": 836098369,
@@ -575,6 +591,68 @@
       "fileSize": 2751117
     },
     {
+      "folderName": "New World",
+      "fingerprint": 570491719,
+      "fileDateHash": 915561384,
+      "sectionID": 17,
+      "individualFingerprints": [
+        172333841,
+        224251200,
+        224251200,
+        325414373,
+        489458212,
+        489458212,
+        489458212,
+        493877642,
+        500036828,
+        682895157,
+        791244054,
+        1065350002,
+        1254400901,
+        1660722048,
+        1803953797,
+        1842493656,
+        1916886062,
+        1943282560,
+        2302555122,
+        2302555122,
+        2464651772,
+        2535630947,
+        2535630947,
+        2535630947,
+        2535630947,
+        2583436444,
+        2643933950,
+        3028428630,
+        3080800884,
+        3184781582,
+        3278097606,
+        3383409723,
+        3535160356,
+        3582932549,
+        3602844998,
+        3669286529,
+        3764984522,
+        3803341162,
+        3955112775,
+        4024362282,
+        4024362282,
+        4024362282,
+        4024362282,
+        4024362282,
+        4092848852,
+        4213863462,
+        4233573051,
+        4272588933
+      ],
+      "status": 1,
+      "timestamp": "2018-11-19T03:04:51.0206111Z",
+      "lastWriteTimeUtc": "2018-11-19T01:57:17.9818932Z",
+      "queryTimestamp": "2018-11-19T03:04:51.4043716Z",
+      "fileCount": 16,
+      "fileSize": 0
+    },
+    {
       "folderName": "tesla-core-lib-1.12.2-1.0.15.jar",
       "fingerprint": 3720775035,
       "fileDateHash": 544614367,
@@ -635,6 +713,21 @@
       "fileSize": 584272
     },
     {
+      "folderName": "Geolosys-1.12.2-2.1.3.1.jar",
+      "fingerprint": 2609561100,
+      "fileDateHash": 1951784388,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2609561100
+      ],
+      "status": 1,
+      "timestamp": "2018-11-19T03:04:51.0096172Z",
+      "lastWriteTimeUtc": "2018-11-19T00:42:43.8279122Z",
+      "queryTimestamp": "2018-11-19T03:04:51.4053708Z",
+      "fileCount": 1,
+      "fileSize": 276387
+    },
+    {
       "folderName": "OpenBlocks-1.12.2-1.8.jar",
       "fingerprint": 3701942740,
       "fileDateHash": 1147190450,
@@ -665,6 +758,21 @@
       "fileSize": 4310011
     },
     {
+      "folderName": "MicdoodleCore-1.12.2-4.0.1.177.jar",
+      "fingerprint": 3786136923,
+      "fileDateHash": 3406410810,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3786136923
+      ],
+      "status": 1,
+      "timestamp": "2018-11-19T03:21:35.5807123Z",
+      "lastWriteTimeUtc": "2018-06-26T18:40:50.306029Z",
+      "queryTimestamp": "2018-11-19T03:21:35.8325677Z",
+      "fileCount": 1,
+      "fileSize": 52597
+    },
+    {
       "folderName": "StorageDrawers-1.12.2-5.3.7.jar",
       "fingerprint": 4138996566,
       "fileDateHash": 2104693177,
@@ -678,6 +786,21 @@
       "queryTimestamp": "2018-11-19T00:41:27.6607282Z",
       "fileCount": 1,
       "fileSize": 596191
+    },
+    {
+      "folderName": "Galacticraft-Planets-1.12.2-4.0.1.177.jar",
+      "fingerprint": 272856182,
+      "fileDateHash": 4232379964,
+      "sectionID": 6,
+      "individualFingerprints": [
+        272856182
+      ],
+      "status": 1,
+      "timestamp": "2018-11-19T03:04:50.92465Z",
+      "lastWriteTimeUtc": "2018-06-26T18:40:50.0990488Z",
+      "queryTimestamp": "2018-11-19T03:04:51.4063703Z",
+      "fileCount": 1,
+      "fileSize": 3845865
     },
     {
       "folderName": "ItemStages-1.12.2-2.0.35.jar",
@@ -695,6 +818,36 @@
       "fileSize": 33564
     },
     {
+      "folderName": "Just A Raft Mod-1.1.1.jar",
+      "fingerprint": 2827255236,
+      "fileDateHash": 2222548042,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2827255236
+      ],
+      "status": 1,
+      "timestamp": "2018-11-19T03:04:51.0106167Z",
+      "lastWriteTimeUtc": "2018-11-19T02:59:26.4192418Z",
+      "queryTimestamp": "2018-11-19T03:04:51.4063703Z",
+      "fileCount": 1,
+      "fileSize": 70775
+    },
+    {
+      "folderName": "GalacticraftTweaker-1.12.2-1.0.1.jar",
+      "fingerprint": 3995712630,
+      "fileDateHash": 1616372535,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3995712630
+      ],
+      "status": 1,
+      "timestamp": "2018-11-19T03:04:51.006619Z",
+      "lastWriteTimeUtc": "2018-06-26T18:41:55.9683412Z",
+      "queryTimestamp": "2018-11-19T03:04:51.4063703Z",
+      "fileCount": 1,
+      "fileSize": 13599
+    },
+    {
       "folderName": "chiselsandbits-14.27.jar",
       "fingerprint": 2497220766,
       "fileDateHash": 3582948161,
@@ -708,6 +861,21 @@
       "queryTimestamp": "2018-11-19T00:41:27.6617268Z",
       "fileCount": 1,
       "fileSize": 716388
+    },
+    {
+      "folderName": "GalacticraftCore-1.12.2-4.0.1.177.jar",
+      "fingerprint": 1480734472,
+      "fileDateHash": 902185156,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1480734472
+      ],
+      "status": 1,
+      "timestamp": "2018-11-19T03:04:50.9466348Z",
+      "lastWriteTimeUtc": "2018-06-26T18:40:50.3040423Z",
+      "queryTimestamp": "2018-11-19T03:04:51.4073698Z",
+      "fileCount": 1,
+      "fileSize": 10356156
     },
     {
       "folderName": "BetterQuesting-3.5.275.jar",
@@ -740,6 +908,21 @@
       "fileSize": 1301473
     },
     {
+      "folderName": "natura-1.12.2-4.3.2.62.jar",
+      "fingerprint": 1388632429,
+      "fileDateHash": 3122283757,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1388632429
+      ],
+      "status": 1,
+      "timestamp": "2018-11-19T03:04:51.0116165Z",
+      "lastWriteTimeUtc": "2018-11-19T00:43:00.189281Z",
+      "queryTimestamp": "2018-11-19T03:04:51.4073698Z",
+      "fileCount": 1,
+      "fileSize": 1141674
+    },
+    {
       "folderName": "moreoverlays-1.14-mc1.12.2.jar",
       "fingerprint": 799281325,
       "fileDateHash": 1721245675,
@@ -770,6 +953,21 @@
       "fileSize": 97062
     },
     {
+      "folderName": "campfire-1.12-v1.2.jar",
+      "fingerprint": 4089518723,
+      "fileDateHash": 1490811005,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4089518723
+      ],
+      "status": 1,
+      "timestamp": "2018-11-19T03:04:50.9236484Z",
+      "lastWriteTimeUtc": "2018-11-19T02:33:23.2959827Z",
+      "queryTimestamp": "2018-11-19T03:04:51.408369Z",
+      "fileCount": 1,
+      "fileSize": 32235
+    },
+    {
       "folderName": "Chameleon-1.12-4.1.3.jar",
       "fingerprint": 2760206313,
       "fileDateHash": 2715968287,
@@ -783,6 +981,21 @@
       "queryTimestamp": "2018-11-19T00:41:27.6627272Z",
       "fileCount": 1,
       "fileSize": 96859
+    },
+    {
+      "folderName": "gasesframework-1.12.2-2.0.0-pre1.jar",
+      "fingerprint": 1089120565,
+      "fileDateHash": 7796332,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1089120565
+      ],
+      "status": 1,
+      "timestamp": "2018-11-19T03:04:51.0076185Z",
+      "lastWriteTimeUtc": "2018-11-19T01:48:47.7473889Z",
+      "queryTimestamp": "2018-11-19T03:04:51.408369Z",
+      "fileCount": 1,
+      "fileSize": 171488
     },
     {
       "folderName": "Quark-r1.5-130.jar",
@@ -920,6 +1133,21 @@
       "fileSize": 492374
     },
     {
+      "folderName": "gases-1.12.2-2.0.0-pre1.jar",
+      "fingerprint": 1914587007,
+      "fileDateHash": 3223811331,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1914587007
+      ],
+      "status": 1,
+      "timestamp": "2018-11-19T03:04:51.006619Z",
+      "lastWriteTimeUtc": "2018-11-19T01:45:16.3385603Z",
+      "queryTimestamp": "2018-11-19T03:04:51.410368Z",
+      "fileCount": 1,
+      "fileSize": 117627
+    },
+    {
       "folderName": "PrimalChests-1.0.3.jar",
       "fingerprint": 2264755757,
       "fileDateHash": 2265492011,
@@ -981,7 +1209,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2018-11-19T00:41:28.3041822Z",
+  "lastPreviousMatchUpdate": "2018-11-19T03:04:51.8761014Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -1461,7 +1689,7 @@
       "dateInstalled": "2018-11-15T22:33:05.0382166Z",
       "dateUpdated": "2018-11-15T22:33:05.0412151Z",
       "dateLastUpdateAttempted": "2018-11-15T22:33:05.0412151Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4948,6 +5176,293 @@
       "dateInstalled": "2018-11-19T01:48:47.7473889Z",
       "dateUpdated": "2018-11-19T01:48:47.7503883Z",
       "dateLastUpdateAttempted": "2018-11-19T01:48:47.7503883Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 271615,
+      "gameInstanceID": "dabeb599-3f96-443c-96eb-756c636ac3f0",
+      "installedFile": {
+        "id": 2476307,
+        "fileName": "campfire-1.12-v1.2.jar",
+        "fileNameOnDisk": "campfire-1.12-v1.2.jar",
+        "fileDate": "2017-09-06T00:27:50.227",
+        "fileLength": 32235,
+        "releaseType": 1,
+        "fileStatus": 1,
+        "downloadUrl": "https://files.forgecdn.net/files/2476/307/campfire-1.12-v1.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 2464251221
+          },
+          {
+            "folderName": "jsit",
+            "fimgerprint": 1974447649
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 3118267744
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 1298322890
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 3273911401
+          }
+        ],
+        "packageFingerprint": 4089518723,
+        "gameVersion": [
+          "1.12",
+          "1.12.2",
+          "1.12.1"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2018-11-19T02:33:23.2959827Z",
+      "dateUpdated": "2018-11-19T02:33:23.297982Z",
+      "dateLastUpdateAttempted": "2018-11-19T02:33:23.297982Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 274350,
+      "gameInstanceID": "dabeb599-3f96-443c-96eb-756c636ac3f0",
+      "installedFile": {
+        "id": 2550229,
+        "fileName": "Just A Raft Mod-1.1.1.jar",
+        "fileNameOnDisk": "Just A Raft Mod-1.1.1.jar",
+        "fileDate": "2018-04-09T15:02:03.45",
+        "fileLength": 70775,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2550/229/Just A Raft Mod-1.1.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 526941465
+          },
+          {
+            "folderName": "com",
+            "fimgerprint": 3429336870
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 22496419
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 2897099763
+          }
+        ],
+        "packageFingerprint": 2827255236,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2018-11-19T02:59:26.4202471Z",
+      "dateUpdated": "2018-11-19T02:59:26.4222403Z",
+      "dateLastUpdateAttempted": "2018-11-19T02:59:26.4222403Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 286116,
+      "gameInstanceID": "dabeb599-3f96-443c-96eb-756c636ac3f0",
+      "installedFile": {
+        "id": 2532784,
+        "fileName": "GalacticraftTweaker-1.12.2-1.0.1.jar",
+        "fileNameOnDisk": "GalacticraftTweaker-1.12.2-1.0.1.jar",
+        "fileDate": "2018-02-19T08:53:56.183",
+        "fileLength": 13599,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2532/784/GalacticraftTweaker-1.12.2-1.0.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 3228298443
+          },
+          {
+            "folderName": "com",
+            "fimgerprint": 2124792198
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 579547271
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 3273911401
+          }
+        ],
+        "packageFingerprint": 3995712630,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2018-11-19T03:04:51.8751022Z",
+      "dateUpdated": "2017-11-19T03:04:51.8751022Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 3,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 253449,
+      "gameInstanceID": "dabeb599-3f96-443c-96eb-756c636ac3f0",
+      "installedFile": {
+        "id": 2568751,
+        "fileName": "Hwyla-1.8.26-B41_1.12.2.jar",
+        "fileNameOnDisk": "Hwyla-1.8.26-B41_1.12.2.jar",
+        "fileDate": "2018-06-02T22:55:49.297",
+        "fileLength": 453778,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2568/751/Hwyla-1.8.26-B41_1.12.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 4216876035
+          },
+          {
+            "folderName": "mcp",
+            "fimgerprint": 109170074
+          },
+          {
+            "folderName": "LICENSE.txt",
+            "fimgerprint": 2985416683
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 1803519354
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 1894937175
+          }
+        ],
+        "packageFingerprint": 637705220,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2018-11-19T03:39:55.2635646Z",
+      "dateUpdated": "2018-11-19T03:39:55.2665791Z",
+      "dateLastUpdateAttempted": "2018-11-19T03:39:55.2665791Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 79287,
+      "gameInstanceID": "dabeb599-3f96-443c-96eb-756c636ac3f0",
+      "installedFile": {
+        "id": 2481605,
+        "fileName": "WailaHarvestability-mc1.12-1.1.12.jar",
+        "fileNameOnDisk": "WailaHarvestability-mc1.12-1.1.12.jar",
+        "fileDate": "2017-09-19T10:37:18.613",
+        "fileLength": 31462,
+        "releaseType": 1,
+        "fileStatus": 1,
+        "downloadUrl": "https://files.forgecdn.net/files/2481/605/WailaHarvestability-mc1.12-1.1.12.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "addonId": 253449,
+            "type": 1
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 2464251221
+          },
+          {
+            "folderName": "squeek",
+            "fimgerprint": 1584608924
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 4022352604
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 3093763780
+          }
+        ],
+        "packageFingerprint": 993638690,
+        "gameVersion": [
+          "1.12.2",
+          "1.12",
+          "1.12.1"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2018-11-19T03:39:55.7003124Z",
+      "dateUpdated": "2018-11-19T03:39:55.7033094Z",
+      "dateLastUpdateAttempted": "2018-11-19T03:39:55.7033094Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
