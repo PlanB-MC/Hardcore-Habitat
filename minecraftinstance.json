@@ -5525,6 +5525,62 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": []
+    },
+    {
+      "addonID": 261837,
+      "gameInstanceID": "b102a8a4-1ced-400f-9ad7-807d9b4d9ff8",
+      "installedFile": {
+        "id": 2499866,
+        "fileName": "signpost-1.12-1.06.1.jar",
+        "fileNameOnDisk": "signpost-1.12-1.06.1.jar",
+        "fileDate": "2017-11-13T21:16:41.323",
+        "fileLength": 393239,
+        "releaseType": 1,
+        "fileStatus": 1,
+        "downloadUrl": "https://files.forgecdn.net/files/2499/866/signpost-1.12-1.06.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 2464251221
+          },
+          {
+            "folderName": "gollorum",
+            "fimgerprint": 1398220921
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 2906125699
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 510640042
+          }
+        ],
+        "packageFingerprint": 1836906512,
+        "gameVersion": [
+          "1.12.2",
+          "1.12",
+          "1.12.1"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2018-11-19T19:54:32.3209752Z",
+      "dateUpdated": "2018-11-19T19:54:32.3229739Z",
+      "dateLastUpdateAttempted": "2018-11-19T19:54:32.3229739Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     }
   ],
   "isMigrated": false,
