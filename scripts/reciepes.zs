@@ -15,12 +15,14 @@
     val treatedsticks = <immersiveengineering:material>;
     val ironplate = <immersiveengineering:metal:39>;
     val hammer = <immersiveengineering:tool>;
+    val rock = <immcraft:rock>;
 
     # Primal Items
     val drythatch = <primal:thatching_dry>;
     val Pchest = <primalchests:primal_chest>;
     val workstump = <primal_tech:work_stump>;
     val fsaw = <primal:flint_saw>;
+    val craftingrock = <primal_tech:rock>;
 
     # Horsepower Items
     val anyChoppingBlock = <horsepower:chopping_block:*>;
@@ -83,3 +85,5 @@ recipes.addShaped("Hammer", hammer,
 );
 
 recipes.addShapeless("workstump", workstump , [anyLog,anyChoppingBlock] );
+
+recipes.addShapeless("wcraftingrock", craftingrock , [rock] );
