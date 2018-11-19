@@ -82,10 +82,4 @@ recipes.addShaped("Hammer", hammer,
     ]
 );
 
-recipes.addShaped("Work Stump", workstump,
-    [
-        [null,anyChoppingBlock,null],
-        [null,anyLog,null],
-        [null,null,null]
-    ]
-);
+recipes.addShapeless("workstump", workstump , [anyLog,anyChoppingBlock] );
