@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "oreflowers:an_indication": {
+    "criteria": {
+      "oreflowers1": "2018-11-18 09:13:51 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2018-11-17 10:18:59 -0800"
@@ -1274,6 +1280,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_the_recipe": "2018-11-17 10:18:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2018-11-18 09:13:51 -0800"
     },
     "done": true
   },

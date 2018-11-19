@@ -1,6 +1,6 @@
 version:1343
 invertYMouse:false
-mouseSensitivity:0.2535211
+mouseSensitivity:0.63380283
 fov:0.0
 gamma:1.0
 saturation:0.0
@@ -11,9 +11,9 @@ bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:0
+difficulty:2
 fancyGraphics:true
-ao:2
+ao:0
 renderClouds:true
 resourcePacks:[]
 incompatibleResourcePacks:[]
@@ -85,6 +85,14 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:44
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
+key_quark.keybind.playerSort:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -98,14 +106,6 @@ key_quark.emote.headbang:0
 key_quark.emote.weep:0
 key_quark.emote.facepalm:0
 key_quark.keybind.toggleAutojump:48
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:44
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
-key_quark.keybind.playerSort:0
 key_quark.keybind.lockBuilding:37
 key_key.betterquesting.quests:41
 key_key.xu2.searchforitems:20
@@ -118,6 +118,7 @@ key_pneumaticcraft.armor.options:22
 key_pneumaticcraft.helmet.hack:35
 key_pneumaticcraft.helmet.debugging.drone:21
 key_pneumaticcraft.boots.kick:45:CONTROL
+key_smoothfont.key.guiOpen:199
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
