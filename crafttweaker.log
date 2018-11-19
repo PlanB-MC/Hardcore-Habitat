@@ -15,7 +15,7 @@
 [INITIALIZATION][CLIENT][INFO] Adding to item stage unobtainable. Plastic - industrialforegoing:plastic:0
 [INITIALIZATION][CLIENT][INFO] Adding to item stage unobtainable. Dry Rubber - industrialforegoing:dryrubber:0
 [INITIALIZATION][CLIENT][INFO] Adding to item stage unobtainable. Tiny Dry Rubber - industrialforegoing:tinydryrubber:0
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 299ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 339ms
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Furnace with name Furnace
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Primal Chest with name Primal Chest
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Pickaxe with name Iron Pick

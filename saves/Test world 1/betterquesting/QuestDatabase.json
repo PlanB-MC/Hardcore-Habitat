@@ -1,0 +1,366 @@
+{
+  "build:8": "3.5.275",
+  "format:8": "2.0.0",
+  "questDatabase:9": {
+    "0:10": {
+      "questID:3": 0,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "immcraft:rock",
+            "Count:3": 30,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 1,
+          "ismain:1": 0,
+          "name:8": "Gather Rocks",
+          "desc:8": "As it says on the tin"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "immcraft:rock",
+              "Count:3": 30,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "minecraft:stone",
+              "Count:3": 3,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:flint",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "1:10": {
+      "questID:3": 1,
+      "preRequisites:11": [
+        0
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:written_book",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Supply Run",
+          "desc:8": "Its time to make some basic tools, to survive. Collect the following resources so you may craft a hatchet"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:flint",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "minecraft:stick",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "tconstruct:bow_string",
+              "Count:3": 10,
+              "tag:10": {
+                "Material:8": "hemp"
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "amount:3": 1,
+          "rewardID:8": "bq_standard:xp",
+          "isLevels:1": 1,
+          "index:3": 0
+        },
+        "1:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "minecraft:written_book",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    },
+    "2:10": {
+      "questID:3": 2,
+      "preRequisites:11": [
+        1
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "primal_tech:work_stump",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Crafty Caveman",
+          "desc:8": "Lets get crafty and make the starter hatchet!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "minecraft:log",
+              "Count:3": 1,
+              "OreDict:8": "logWood",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "horsepower:chopping_block",
+              "Count:3": 1,
+              "tag:10": {
+                "textureBlock:10": {
+                  "id:8": "primal:logs_stripped",
+                  "Count:1": 1,
+                  "Damage:2": 0
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "minecraft:bread",
+              "Count:3": 5,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "bq_standard:loot_chest",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    }
+  },
+  "questLines:9": {
+    "0:10": {
+      "quests:9": {
+        "0:10": {
+          "size:3": 24,
+          "x:3": 0,
+          "y:3": 0,
+          "id:3": 0
+        },
+        "1:10": {
+          "size:3": 24,
+          "x:3": 0,
+          "y:3": 48,
+          "id:3": 1
+        },
+        "2:10": {
+          "size:3": 24,
+          "x:3": 0,
+          "y:3": 90,
+          "id:3": 2
+        }
+      },
+      "lineID:3": 0,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "Stone Age",
+          "bg_image:8": "",
+          "bg_size:3": 256,
+          "desc:8": "The Stone Age was a broad prehistoric period during which stone was widely used to make implements with an edge, a point, or a percussion surface. The period lasted roughly 3.4 million years and ended between 8700 BCE and 2000 BCE with the advent of metalworking.\n\n"
+        }
+      },
+      "order:3": 0
+    },
+    "1:10": {
+      "quests:9": {},
+      "lineID:3": 1,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "Bronze Age",
+          "bg_image:8": "",
+          "bg_size:3": 256,
+          "desc:8": "The Bronze Age is a historical period characterized by the use of bronze, and in some areas proto-writing, and other early features of urban civilization. The Bronze Age is the second principal period of the three-age Stone-Bronze-Iron system, as proposed in modern times by Christian Jürgensen Thomsen, for classifying and studying ancient societies.\n\n"
+        }
+      },
+      "order:3": 1
+    },
+    "2:10": {
+      "quests:9": {},
+      "lineID:3": 2,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "Iron Age",
+          "bg_image:8": "",
+          "bg_size:3": 256,
+          "desc:8": "The Iron Age is the final epoch of the three-age system, preceded by the Stone Age (Neolithic) and the Bronze Age. It is an archaeological era in the prehistory and protohistory of Europe and the Ancient Near East, and by analogy also used of other parts of the Old World. The three-age system was introduced in the first half of the 19th century for the archaeology of Europe in particular, and by the later 19th century expanded to the archaeology of the Ancient Near East. Its name harks back to the mythological \"Ages of Man\" of Hesiod. As an archaeological era it was first introduced for Scandinavia by Christian Jürgensen Thomsen in the 1830s. By the 1860s, it was embraced as a useful division of the \"earliest history of mankind\" in general and began to be applied in Assyriology. The development of the now-conventional periodization in the archaeology of the Ancient Near East was developed in the 1920s to 1930s. As its name suggests, Iron Age technology is characterized by the production of tools and weaponry by ferrous metallurgy (ironworking), more specifically from carbon steel.\n\n"
+        }
+      },
+      "order:3": 2
+    },
+    "3:10": {
+      "quests:9": {},
+      "lineID:3": 3,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "Classical antiquity",
+          "bg_image:8": "",
+          "bg_size:3": 256,
+          "desc:8": "Classical antiquity is the period of cultural history between the 8th century BC and the 5th or 6th century AD centered on the Mediterranean Sea, comprising the interlocking civilizations of ancient Greece and ancient Rome, collectively known as the Greco-Roman world. It is the period in which Greek and Roman society flourished and wielded great influence throughout Europe, North Africa and Western Asia.\n\n"
+        }
+      },
+      "order:3": 3
+    },
+    "4:10": {
+      "quests:9": {},
+      "lineID:3": 4,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "Middle Ages",
+          "bg_image:8": "",
+          "bg_size:3": 256,
+          "desc:8": "In the history of Europe, the Middle Ages lasted from the 5th to the 15th century. It began with the fall of the Western Roman Empire and merged into the Renaissance and the Age of Discovery. The Middle Ages is the middle period of the three traditional divisions of Western history: classical antiquity, the medieval period, and the modern period. The medieval period is itself subdivided into the Early, High, and Late Middle Ages.\n\n"
+        }
+      },
+      "order:3": 4
+    },
+    "5:10": {
+      "quests:9": {},
+      "lineID:3": 5,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "Nuclear Age",
+          "bg_image:8": "",
+          "bg_size:3": 256,
+          "desc:8": "No Description"
+        }
+      },
+      "order:3": 5
+    },
+    "6:10": {
+      "quests:9": {},
+      "lineID:3": 6,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "Digital Age",
+          "bg_image:8": "",
+          "bg_size:3": 256,
+          "desc:8": "The Digital Revolution, also known as the Third Industrial Revolution, is the shift from mechanical and analogue electronic technology to digital electronics which began anywhere from the late 1950s to the late 1970s with the adoption and proliferation of digital computers and digital record keeping that continues to the present day.[1] Implicitly, the term also refers to the sweeping changes brought about by digital computing and communication technology during (and after) the latter half of the 20th century. Analogous to the Agricultural Revolution and Industrial Revolution, the Digital Revolution marked the beginning of the Information Age.[2]"
+        }
+      },
+      "order:3": 6
+    }
+  },
+  "questSettings:10": {
+    "betterquesting:10": {
+      "livesdef:3": 3,
+      "pack_name:8": "",
+      "home_anchor_y:5": 0.0,
+      "livesmax:3": 10,
+      "home_anchor_x:5": 0.5,
+      "editmode:1": 0,
+      "hardcore:1": 0,
+      "home_image:8": "betterquesting:textures/gui/default_title.png",
+      "pack_version:3": 0,
+      "home_offset_x:3": -128,
+      "home_offset_y:3": 0
+    }
+  }
+}
