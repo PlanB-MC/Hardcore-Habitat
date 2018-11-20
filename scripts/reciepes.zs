@@ -39,6 +39,7 @@ recipes.remove(<minecraft:chest>);
 recipes.remove(<primalchests:primal_chest>);
 recipes.remove(<minecraft:iron_pickaxe>);
 recipes.remove(<immersiveengineering:tool>);
+recipes.remove(<minecraft:leather>);
 
     # Industial Forging
     # No longer needed. Added them to an unobtainable stage

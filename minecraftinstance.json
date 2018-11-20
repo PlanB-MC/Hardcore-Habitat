@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2018-11-19T19:14:42.3065804Z",
+  "lastPlayed": "2018-11-20T04:23:00.2891962Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -5571,6 +5571,131 @@
       "dateInstalled": "2018-11-19T19:54:32.3209752Z",
       "dateUpdated": "2018-11-19T19:54:32.3229739Z",
       "dateLastUpdateAttempted": "2018-11-19T19:54:32.3229739Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 253775,
+      "gameInstanceID": "b102a8a4-1ced-400f-9ad7-807d9b4d9ff8",
+      "installedFile": {
+        "id": 2554918,
+        "fileName": "bearwithme-1.12.2-1.3.1.jar",
+        "fileNameOnDisk": "bearwithme-1.12.2-1.3.1.jar",
+        "fileDate": "2018-04-24T15:15:43.21",
+        "fileLength": 284783,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2554/918/bearwithme-1.12.2-1.3.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 3543857908
+          },
+          {
+            "folderName": "com",
+            "fimgerprint": 375855267
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 2742865982
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 857183731
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 280007089
+          }
+        ],
+        "packageFingerprint": 3000181468,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2018-11-19T19:55:00.3486138Z",
+      "dateUpdated": "2018-11-19T19:55:00.3516144Z",
+      "dateLastUpdateAttempted": "2018-11-19T19:55:00.3516144Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 291126,
+      "gameInstanceID": "b102a8a4-1ced-400f-9ad7-807d9b4d9ff8",
+      "installedFile": {
+        "id": 2625854,
+        "fileName": "engineers_doors-1.12.2-0.8.0.jar",
+        "fileNameOnDisk": "engineers_doors-1.12.2-0.8.0.jar",
+        "fileDate": "2018-10-08T20:30:05.777",
+        "fileLength": 121107,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2625/854/engineers_doors-1.12.2-0.8.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "addonId": 231951,
+            "type": 1
+          },
+          {
+            "addonId": 243121,
+            "type": 2
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 2586072836
+          },
+          {
+            "folderName": "nihiltres",
+            "fimgerprint": 522768446
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 1141857468
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 935645970
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 1054746689
+          }
+        ],
+        "packageFingerprint": 3927455532,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2018-11-19T20:50:34.4895811Z",
+      "dateUpdated": "2018-11-19T20:50:34.4915789Z",
+      "dateLastUpdateAttempted": "2018-11-19T20:50:34.4915789Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
