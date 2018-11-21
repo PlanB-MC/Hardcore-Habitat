@@ -10,6 +10,9 @@
     val string1 = <minecraft:string>;
     val ironingot = <minecraft:iron_ingot>;
     val craftingtable = <minecraft:crafting_table>;
+    val chest = <minecraft:chest>;
+    val goldingot = <minecraft:gold_ingot>;
+    val leather = <minecraft:leather>;
 
     # Tinkers Items
     val tcontable = <tconstruct:tooltables>;
@@ -34,6 +37,8 @@
     # Horsepower Items
     val anyChoppingBlock = <horsepower:chopping_block:*>;
 
+    #Backpacks
+    val backpack = <wearablebackpacks:backpack>;
 
 # ============== #
 # Recipe Removal #
@@ -50,6 +55,7 @@ recipes.remove(<minecraft:leather>);
 recipes.remove(<minecraft:crafting_table>);
 recipes.remove(<tconstruct:tooltables>);
 recipes.remove(<tconstruct:smeltery_controller>);
+recipes.remove(<wearablebackpacks:backpack>);
 
     # Industial Forging
     # No longer needed. Added them to an unobtainable stage
@@ -60,8 +66,24 @@ recipes.remove(<tconstruct:smeltery_controller>);
     recipes.remove(<industrialforegoing:tinydryrubber>); */
 
 # ================ #
-# Recipe Additions #
+# Shaped_Recipe Additions #
 # ================ #
+
+recipes.addShaped("chest", chest,
+    [
+        [anyPlank,anyPlank,anyPlank],
+        [anyPlank,Pchest,anyPlank],
+        [anyPlank,anyPlank,anyPlank]
+    ]
+);
+
+recipes.addShaped("backpack", backpack,
+    [
+        [leather,goldingot,leather],
+        [leather,chest,leather],
+        [leather,leather,leather]
+    ]
+);
 
 recipes.addShaped("Tcontroller", controller,
     [
@@ -118,6 +140,10 @@ recipes.addShaped("Hammer", hammer,
         [treatedsticks,null,null]
     ]
 );
+
+# =========================== #
+# ShapedLess_Recipe Additions #
+# =========================== #
 
 recipes.addShapeless("workstump", workstump , [anyLog,anyChoppingBlock] );
 

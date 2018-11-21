@@ -30,7 +30,9 @@
 [INITIALIZATION][CLIENT][INFO] Adding to item stage unobtainable. Plastic - industrialforegoing:plastic:0
 [INITIALIZATION][CLIENT][INFO] Adding to item stage unobtainable. Dry Rubber - industrialforegoing:dryrubber:0
 [INITIALIZATION][CLIENT][INFO] Adding to item stage unobtainable. Tiny Dry Rubber - industrialforegoing:tinydryrubber:0
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 487ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 510ms
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Oak Chest with name chest
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Backpack with name backpack
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Smeltery Controller with name Tcontroller
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Crafting Station with name tooltable
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Crafting Table with name craftingtable
