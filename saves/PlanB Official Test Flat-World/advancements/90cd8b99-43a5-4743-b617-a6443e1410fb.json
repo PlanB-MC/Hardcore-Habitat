@@ -155,12 +155,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "has_planks": "2018-11-16 20:45:54 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_the_recipe": "2018-11-17 10:18:59 -0800"
@@ -1247,6 +1241,12 @@
     },
     "done": true
   },
+  "bonsaitrees:root": {
+    "criteria": {
+      "bonsaipot_in_inventory": "2018-11-20 18:46:19 -0800"
+    },
+    "done": true
+  },
   "totemic:recipes/flute": {
     "criteria": {
       "has_the_recipe": "2018-11-17 10:18:59 -0800"
@@ -1508,6 +1508,12 @@
   "minecraft:recipes/building_blocks/spruce_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2018-11-17 10:18:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2018-11-20 17:51:57 -0800"
     },
     "done": true
   },

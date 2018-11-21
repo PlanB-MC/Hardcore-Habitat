@@ -9,6 +9,13 @@
     val ironpick = <minecraft:iron_pickaxe>;
     val string1 = <minecraft:string>;
     val ironingot = <minecraft:iron_ingot>;
+    val craftingtable = <minecraft:crafting_table>;
+
+    # Tinkers Items
+    val tcontable = <tconstruct:tooltables>;
+    val searedbrick = <tconstruct:seared:3>;
+    val controller = <tconstruct:smeltery_controller>;
+    val brickseared = <tconstruct:materials>;
 
     # Immersive Items
     val blast = <immersiveengineering:stone_decoration:1>;
@@ -40,6 +47,9 @@ recipes.remove(<primalchests:primal_chest>);
 recipes.remove(<minecraft:iron_pickaxe>);
 recipes.remove(<immersiveengineering:tool>);
 recipes.remove(<minecraft:leather>);
+recipes.remove(<minecraft:crafting_table>);
+recipes.remove(<tconstruct:tooltables>);
+recipes.remove(<tconstruct:smeltery_controller>);
 
     # Industial Forging
     # No longer needed. Added them to an unobtainable stage
@@ -52,6 +62,30 @@ recipes.remove(<minecraft:leather>);
 # ================ #
 # Recipe Additions #
 # ================ #
+
+recipes.addShaped("Tcontroller", controller,
+    [
+        [brickseared,brickseared,brickseared],
+        [brickseared,null,brickseared],
+        [brickseared,craftingtable,brickseared]
+    ]
+);
+
+recipes.addShaped("tooltable", tcontable,
+    [
+        [null,searedbrick,null],
+        [null,craftingtable,null],
+        [null,null,null]
+    ]
+);
+
+recipes.addShaped("craftingtable", craftingtable,
+    [
+        [anyPlank,craftingrock,anyPlank],
+        [anyPlank,workstump,anyPlank],
+        [anyPlank,anyPlank,anyPlank]
+    ]
+);
 
 recipes.addShaped("Furnace", furnace,
     [
