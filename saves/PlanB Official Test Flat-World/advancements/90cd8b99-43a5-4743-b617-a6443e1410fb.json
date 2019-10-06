@@ -23,12 +23,6 @@
     },
     "done": true
   },
-  "oreflowers:an_indication": {
-    "criteria": {
-      "oreflowers1": "2018-11-18 09:13:51 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/acacia_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2018-11-17 10:18:59 -0800"
@@ -155,15 +149,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
+  "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
-      "has_the_recipe": "2018-11-17 10:18:59 -0800"
+      "has_leather": "2018-11-20 20:22:07 -0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
+  "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
-      "has_planks": "2018-11-16 20:45:54 -0800"
+      "has_the_recipe": "2018-11-17 10:18:59 -0800"
     },
     "done": true
   },
@@ -566,6 +560,12 @@
   "minecraft:recipes/decorations/lime_bed": {
     "criteria": {
       "has_the_recipe": "2018-11-17 10:18:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2018-11-20 20:22:07 -0800"
     },
     "done": true
   },
@@ -1115,6 +1115,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2018-11-20 20:22:59 -0800"
+    },
+    "done": true
+  },
   "totemic:recipes/jingle_dress": {
     "criteria": {
       "has_the_recipe": "2018-11-17 10:18:59 -0800"
@@ -1154,6 +1160,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_the_recipe": "2018-11-17 10:18:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2018-11-20 20:22:59 -0800"
     },
     "done": true
   },
@@ -1211,18 +1223,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather": {
-    "criteria": {
-      "has_the_recipe": "2018-11-17 10:18:59 -0800"
-    },
-    "done": true
-  },
-  "totemic:recipes/leather_from_hide": {
-    "criteria": {
-      "has_the_recipe": "2018-11-17 10:18:59 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/end_bricks": {
     "criteria": {
       "has_the_recipe": "2018-11-17 10:18:59 -0800"
@@ -1262,6 +1262,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_the_recipe": "2018-11-17 10:18:59 -0800"
+    },
+    "done": true
+  },
+  "bonsaitrees:root": {
+    "criteria": {
+      "bonsaipot_in_inventory": "2018-11-20 18:46:19 -0800"
     },
     "done": true
   },
@@ -1445,6 +1451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2018-11-20 20:22:59 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_the_recipe": "2018-11-17 10:18:59 -0800"
@@ -1529,6 +1541,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2018-11-20 17:51:57 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_the_recipe": "2018-11-17 10:18:59 -0800"
@@ -1586,6 +1604,12 @@
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2018-11-16 20:47:54 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2018-11-20 20:22:07 -0800"
     },
     "done": true
   },
@@ -1775,6 +1799,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2018-11-20 20:22:07 -0800"
+    },
+    "done": true
+  },
   "horsepower:recipes/dough": {
     "criteria": {
       "has_the_recipe": "2018-11-17 10:18:59 -0800"
@@ -1928,6 +1958,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_the_recipe": "2018-11-17 10:18:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2018-11-20 20:22:59 -0800"
     },
     "done": true
   },

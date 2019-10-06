@@ -6439,6 +6439,10 @@
       "installedFile": {
         "id": 2557675,
         "fileName": "WailaStages-1.12.2-2.0.23.jar",
+<<<<<<< HEAD
+=======
+        "fileNameOnDisk": "WailaStages-1.12.2-2.0.23.jar",
+>>>>>>> 211fbfd56a1149f2db260e4baa7ac8123e455f5f
         "fileDate": "2018-05-02T03:03:26.617",
         "fileLength": 18422,
         "releaseType": 1,
@@ -6448,6 +6452,7 @@
         "alternateFileId": 0,
         "dependencies": [
           {
+<<<<<<< HEAD
             "id": 0,
             "addonId": 239197,
             "type": 1,
@@ -6464,11 +6469,24 @@
             "addonId": 268655,
             "type": 1,
             "fileId": 0
+=======
+            "addonId": 239197,
+            "type": 1
+          },
+          {
+            "addonId": 253449,
+            "type": 1
+          },
+          {
+            "addonId": 268655,
+            "type": 1
+>>>>>>> 211fbfd56a1149f2db260e4baa7ac8123e455f5f
           }
         ],
         "isAvailable": true,
         "modules": [
           {
+<<<<<<< HEAD
             "foldername": "META-INF",
             "fingerprint": 0,
             "type": 0
@@ -6487,12 +6505,29 @@
             "foldername": "mcmod.info",
             "fingerprint": 0,
             "type": 0
+=======
+            "folderName": "META-INF",
+            "fimgerprint": 2228509612
+          },
+          {
+            "folderName": "LICENSE",
+            "fimgerprint": 3634485962
+          },
+          {
+            "folderName": "com",
+            "fimgerprint": 816113405
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 3704248774
+>>>>>>> 211fbfd56a1149f2db260e4baa7ac8123e455f5f
           }
         ],
         "packageFingerprint": 2078917584,
         "gameVersion": [
           "1.12.2"
         ],
+<<<<<<< HEAD
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
         "categorySectionPackageType": 0,
@@ -6502,6 +6537,9 @@
         "gameId": 0,
         "isServerPack": false,
         "FileNameOnDisk": "WailaStages-1.12.2-2.0.23.jar"
+=======
+        "installMetadata": null
+>>>>>>> 211fbfd56a1149f2db260e4baa7ac8123e455f5f
       },
       "dateInstalled": "2018-11-19T04:45:52.0740245Z",
       "dateUpdated": "2017-11-19T04:45:52.0740245Z",
@@ -6515,7 +6553,11 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
+<<<<<<< HEAD
       "installedTargets": null
+=======
+      "installedTargets": []
+>>>>>>> 211fbfd56a1149f2db260e4baa7ac8123e455f5f
     },
     {
       "addonID": 261837,
@@ -6523,6 +6565,10 @@
       "installedFile": {
         "id": 2499866,
         "fileName": "signpost-1.12-1.06.1.jar",
+<<<<<<< HEAD
+=======
+        "fileNameOnDisk": "signpost-1.12-1.06.1.jar",
+>>>>>>> 211fbfd56a1149f2db260e4baa7ac8123e455f5f
         "fileDate": "2017-11-13T21:16:41.323",
         "fileLength": 393239,
         "releaseType": 1,
@@ -6534,6 +6580,7 @@
         "isAvailable": true,
         "modules": [
           {
+<<<<<<< HEAD
             "foldername": "META-INF",
             "fingerprint": 0,
             "type": 0
@@ -6552,6 +6599,22 @@
             "foldername": "mcmod.info",
             "fingerprint": 0,
             "type": 0
+=======
+            "folderName": "META-INF",
+            "fimgerprint": 2464251221
+          },
+          {
+            "folderName": "gollorum",
+            "fimgerprint": 1398220921
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 2906125699
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 510640042
+>>>>>>> 211fbfd56a1149f2db260e4baa7ac8123e455f5f
           }
         ],
         "packageFingerprint": 1836906512,
@@ -6560,6 +6623,7 @@
           "1.12",
           "1.12.1"
         ],
+<<<<<<< HEAD
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
         "categorySectionPackageType": 0,
@@ -6569,6 +6633,9 @@
         "gameId": 0,
         "isServerPack": false,
         "FileNameOnDisk": "signpost-1.12-1.06.1.jar"
+=======
+        "installMetadata": null
+>>>>>>> 211fbfd56a1149f2db260e4baa7ac8123e455f5f
       },
       "dateInstalled": "2018-11-19T19:54:32.3209752Z",
       "dateUpdated": "2018-11-19T19:54:32.3229739Z",
@@ -6582,7 +6649,11 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
+<<<<<<< HEAD
       "installedTargets": null
+=======
+      "installedTargets": []
+>>>>>>> 211fbfd56a1149f2db260e4baa7ac8123e455f5f
     },
     {
       "addonID": 253775,
@@ -6590,6 +6661,10 @@
       "installedFile": {
         "id": 2554918,
         "fileName": "bearwithme-1.12.2-1.3.1.jar",
+<<<<<<< HEAD
+=======
+        "fileNameOnDisk": "bearwithme-1.12.2-1.3.1.jar",
+>>>>>>> 211fbfd56a1149f2db260e4baa7ac8123e455f5f
         "fileDate": "2018-04-24T15:15:43.21",
         "fileLength": 284783,
         "releaseType": 1,
@@ -6601,6 +6676,7 @@
         "isAvailable": true,
         "modules": [
           {
+<<<<<<< HEAD
             "foldername": "META-INF",
             "fingerprint": 0,
             "type": 0
@@ -6624,12 +6700,33 @@
             "foldername": "assets",
             "fingerprint": 0,
             "type": 0
+=======
+            "folderName": "META-INF",
+            "fimgerprint": 3543857908
+          },
+          {
+            "folderName": "com",
+            "fimgerprint": 375855267
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 2742865982
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 857183731
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 280007089
+>>>>>>> 211fbfd56a1149f2db260e4baa7ac8123e455f5f
           }
         ],
         "packageFingerprint": 3000181468,
         "gameVersion": [
           "1.12.2"
         ],
+<<<<<<< HEAD
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
         "categorySectionPackageType": 0,
@@ -6639,6 +6736,9 @@
         "gameId": 0,
         "isServerPack": false,
         "FileNameOnDisk": "bearwithme-1.12.2-1.3.1.jar"
+=======
+        "installMetadata": null
+>>>>>>> 211fbfd56a1149f2db260e4baa7ac8123e455f5f
       },
       "dateInstalled": "2018-11-19T19:55:00.3486138Z",
       "dateUpdated": "2018-11-19T19:55:00.3516144Z",
@@ -6652,7 +6752,11 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
+<<<<<<< HEAD
       "installedTargets": null
+=======
+      "installedTargets": []
+>>>>>>> 211fbfd56a1149f2db260e4baa7ac8123e455f5f
     },
     {
       "addonID": 291126,
@@ -6660,6 +6764,10 @@
       "installedFile": {
         "id": 2625854,
         "fileName": "engineers_doors-1.12.2-0.8.0.jar",
+<<<<<<< HEAD
+=======
+        "fileNameOnDisk": "engineers_doors-1.12.2-0.8.0.jar",
+>>>>>>> 211fbfd56a1149f2db260e4baa7ac8123e455f5f
         "fileDate": "2018-10-08T20:30:05.777",
         "fileLength": 121107,
         "releaseType": 1,
@@ -6669,6 +6777,7 @@
         "alternateFileId": 0,
         "dependencies": [
           {
+<<<<<<< HEAD
             "id": 0,
             "addonId": 231951,
             "type": 1,
@@ -6679,11 +6788,20 @@
             "addonId": 243121,
             "type": 2,
             "fileId": 0
+=======
+            "addonId": 231951,
+            "type": 1
+          },
+          {
+            "addonId": 243121,
+            "type": 2
+>>>>>>> 211fbfd56a1149f2db260e4baa7ac8123e455f5f
           }
         ],
         "isAvailable": true,
         "modules": [
           {
+<<<<<<< HEAD
             "foldername": "META-INF",
             "fingerprint": 0,
             "type": 0
@@ -6707,12 +6825,33 @@
             "foldername": "pack.mcmeta",
             "fingerprint": 0,
             "type": 0
+=======
+            "folderName": "META-INF",
+            "fimgerprint": 2586072836
+          },
+          {
+            "folderName": "nihiltres",
+            "fimgerprint": 522768446
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 1141857468
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 935645970
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 1054746689
+>>>>>>> 211fbfd56a1149f2db260e4baa7ac8123e455f5f
           }
         ],
         "packageFingerprint": 3927455532,
         "gameVersion": [
           "1.12.2"
         ],
+<<<<<<< HEAD
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
         "categorySectionPackageType": 0,
@@ -6722,6 +6861,9 @@
         "gameId": 0,
         "isServerPack": false,
         "FileNameOnDisk": "engineers_doors-1.12.2-0.8.0.jar"
+=======
+        "installMetadata": null
+>>>>>>> 211fbfd56a1149f2db260e4baa7ac8123e455f5f
       },
       "dateInstalled": "2018-11-19T20:50:34.4895811Z",
       "dateUpdated": "2018-11-19T20:50:34.4915789Z",
@@ -6735,7 +6877,11 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
+<<<<<<< HEAD
       "installedTargets": null
+=======
+      "installedTargets": []
+>>>>>>> 211fbfd56a1149f2db260e4baa7ac8123e455f5f
     },
     {
       "addonID": 278993,
@@ -6743,6 +6889,10 @@
       "installedFile": {
         "id": 2627691,
         "fileName": "bonsaitrees-1.1.1-b138.jar",
+<<<<<<< HEAD
+=======
+        "fileNameOnDisk": "bonsaitrees-1.1.1-b138.jar",
+>>>>>>> 211fbfd56a1149f2db260e4baa7ac8123e455f5f
         "fileDate": "2018-10-14T09:25:26.1",
         "fileLength": 552913,
         "releaseType": 1,
@@ -6754,6 +6904,7 @@
         "isAvailable": true,
         "modules": [
           {
+<<<<<<< HEAD
             "foldername": "META-INF",
             "fingerprint": 0,
             "type": 0
@@ -6777,6 +6928,26 @@
             "foldername": "pack.mcmeta",
             "fingerprint": 0,
             "type": 0
+=======
+            "folderName": "META-INF",
+            "fimgerprint": 2444946056
+          },
+          {
+            "folderName": "org",
+            "fimgerprint": 2096013956
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 920826899
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 4251515996
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 3273911401
+>>>>>>> 211fbfd56a1149f2db260e4baa7ac8123e455f5f
           }
         ],
         "packageFingerprint": 1297960110,
@@ -6785,6 +6956,7 @@
           "1.12",
           "1.12.1"
         ],
+<<<<<<< HEAD
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
         "categorySectionPackageType": 0,
@@ -6794,6 +6966,9 @@
         "gameId": 0,
         "isServerPack": false,
         "FileNameOnDisk": "bonsaitrees-1.1.1-b138.jar"
+=======
+        "installMetadata": null
+>>>>>>> 211fbfd56a1149f2db260e4baa7ac8123e455f5f
       },
       "dateInstalled": "2018-11-21T02:30:04.8878238Z",
       "dateUpdated": "2018-11-21T02:30:04.8908226Z",
@@ -6807,7 +6982,11 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
+<<<<<<< HEAD
       "installedTargets": null
+=======
+      "installedTargets": []
+>>>>>>> 211fbfd56a1149f2db260e4baa7ac8123e455f5f
     },
     {
       "addonID": 223094,
@@ -6815,6 +6994,10 @@
       "installedFile": {
         "id": 2482481,
         "fileName": "Inventory Tweaks 1.63",
+<<<<<<< HEAD
+=======
+        "fileNameOnDisk": "InventoryTweaks-1.63.jar",
+>>>>>>> 211fbfd56a1149f2db260e4baa7ac8123e455f5f
         "fileDate": "2017-09-21T13:56:21.667",
         "fileLength": 263258,
         "releaseType": 1,
@@ -6826,6 +7009,7 @@
         "isAvailable": true,
         "modules": [
           {
+<<<<<<< HEAD
             "foldername": "META-INF",
             "fingerprint": 0,
             "type": 0
@@ -6864,12 +7048,45 @@
             "foldername": "version.properties",
             "fingerprint": 0,
             "type": 0
+=======
+            "folderName": "META-INF",
+            "fimgerprint": 2582511254
+          },
+          {
+            "folderName": "invtweaks",
+            "fimgerprint": 1860114678
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 2394590757
+          },
+          {
+            "folderName": "invtweaks.png",
+            "fimgerprint": 1558494413
+          },
+          {
+            "folderName": "invtweaks_at.cfg",
+            "fimgerprint": 180667226
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 2739388718
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 934435428
+          },
+          {
+            "folderName": "version.properties",
+            "fimgerprint": 921205253
+>>>>>>> 211fbfd56a1149f2db260e4baa7ac8123e455f5f
           }
         ],
         "packageFingerprint": 4009982705,
         "gameVersion": [
           "1.12.2"
         ],
+<<<<<<< HEAD
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
         "categorySectionPackageType": 0,
@@ -6879,10 +7096,70 @@
         "gameId": 0,
         "isServerPack": false,
         "FileNameOnDisk": "InventoryTweaks-1.63.jar"
+=======
+        "installMetadata": null
+>>>>>>> 211fbfd56a1149f2db260e4baa7ac8123e455f5f
       },
       "dateInstalled": "2018-11-21T02:30:13.1957744Z",
       "dateUpdated": "2018-11-21T02:30:13.1997727Z",
       "dateLastUpdateAttempted": "2018-11-21T02:30:13.1997727Z",
+<<<<<<< HEAD
+=======
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 257572,
+      "gameInstanceID": "b102a8a4-1ced-400f-9ad7-807d9b4d9ff8",
+      "installedFile": {
+        "id": 2576699,
+        "fileName": " Wearable Backpacks - 1.12.2 - 3.1.3",
+        "fileNameOnDisk": "WearableBackpacks-1.12.2-3.1.3.jar",
+        "fileDate": "2018-06-26T14:27:54.62",
+        "fileLength": 409649,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2576/699/WearableBackpacks-1.12.2-3.1.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 3197997556
+          },
+          {
+            "folderName": "net",
+            "fimgerprint": 3291002747
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 2786767869
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 1899048117
+          }
+        ],
+        "packageFingerprint": 1435364759,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2018-11-21T02:30:54.3092151Z",
+      "dateUpdated": "2018-11-21T02:30:54.3122127Z",
+      "dateLastUpdateAttempted": "2018-11-21T02:30:54.3122127Z",
+>>>>>>> 211fbfd56a1149f2db260e4baa7ac8123e455f5f
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
