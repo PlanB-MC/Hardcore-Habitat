@@ -2,7 +2,7 @@ version:1343
 invertYMouse:false
 mouseSensitivity:0.63380283
 fov:0.0
-gamma:1.0
+gamma:0.5
 saturation:0.0
 renderDistance:12
 guiScale:0
@@ -93,6 +93,8 @@ key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
 key_quark.keybind.playerSort:0
+key_quark.keybind.lockBuilding:37
+key_quark.keybind.toggleAutojump:48
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -105,8 +107,6 @@ key_quark.emote.shrug:0
 key_quark.emote.headbang:0
 key_quark.emote.weep:0
 key_quark.emote.facepalm:0
-key_quark.keybind.toggleAutojump:48
-key_quark.keybind.lockBuilding:37
 key_key.betterquesting.quests:41
 key_key.xu2.searchforitems:20
 key_key.moreoverlays.lightoverlay.desc:65
@@ -157,6 +157,14 @@ key_mod.chiselsandbits.other.offgrid:0
 key_mod.chiselsandbits.other.undo:0
 key_mod.chiselsandbits.other.redo:0
 key_mod.chiselsandbits.other.add_to_clipboard:0
+key_[GC] Galaxy Map:50
+key_[GC] Open Spaceship Inventory:34
+key_[GC] Toggle Sensor Goggles Mode:37
+key_waila.keybind.wailaconfig:82
+key_waila.keybind.wailadisplay:79
+key_waila.keybind.liquid:80
+key_waila.keybind.recipe:81
+key_waila.keybind.usage:75
 key_key.nextitem:26
 key_key.previtem:27
 key_key.placeitem:25

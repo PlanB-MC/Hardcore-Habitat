@@ -72,8 +72,8 @@
   "hematite": {
     "minY": 32,
     "maxY": 60,
-    "chance": 6,
-    "size": 24,
+    "chance": 5,
+    "size": 32,
     "blacklist": [
       -1,
       1
